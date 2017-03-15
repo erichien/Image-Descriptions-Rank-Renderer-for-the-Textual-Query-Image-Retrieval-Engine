@@ -1,4 +1,4 @@
-# Image Descriptions Rank Renderer for Large Scale Image Search Engine
+# Image Descriptions Rank Renderer for the Textual Query Image Retrieval Engine
   
   
 ## About
